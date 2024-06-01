@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
     <artifactId>tesuas</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
@@ -29,7 +29,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/rimuri03/tescots2</url>
+      <url>https://maven.pkg.github.com/rimuri03/Deployyy</url>
     </repository>
   </distributionManagement>
 
